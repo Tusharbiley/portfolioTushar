@@ -6,7 +6,7 @@ import javascript from "../../public/javascript.png";
 import oracle from "../../public/oracle.png";
 import spring from "../../public/spring.png";
 import springBoot from "../../public/springBoot.jpg";
-function Experiance() {
+function Experience() {
   const cardItem = [
     {
       id: 1,
@@ -46,7 +46,7 @@ function Experiance() {
   ];
   return (
     <div
-      name="Experiance"
+      name="Experience"
       className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16"
     >
       <div>
@@ -72,4 +72,4 @@ function Experiance() {
   );
 }
 
-export default Experiance;
+export default Experience;
